@@ -4,5 +4,5 @@
 阿里云源: https://opsx.alibaba.com/guide?lang=zh-CN&document=69a2341e-801e-11e8-8b5a-00163e04cdbb
 
 ```
-sudo vi /etc/apt/sources.list
+sudo apt edit-sources  # or  sudo vi /etc/apt/sources.list
 ```
