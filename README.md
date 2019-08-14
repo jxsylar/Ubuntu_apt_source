@@ -6,4 +6,5 @@
 ```
 sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
 sudo apt edit-sources  # or  sudo vi /etc/apt/sources.list
+sudo apt update
 ```
